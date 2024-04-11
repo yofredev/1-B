@@ -20,7 +20,7 @@
     font-family: "Montserrat",sans-serif;
 }
 .container{
-    padding: 12em 2em 1em 2em;
+    padding: 8em 2em 1em 2em;
 }
 body{
     background: var(--background-color);
