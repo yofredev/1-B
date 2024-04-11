@@ -28,7 +28,7 @@ const toggle= document.getElementById("toggle"),
             root.style.setProperty('--background-color-menu' , '#f7f7f7')
             root.style.setProperty('--menu-font-color' , '#151515')
             root.style.setProperty('--background-color','#f7f7f7')
-            root.style.setProperty('--font-color','#f7f7f7')
+            root.style.setProperty('--font-color','#151515')
         }
 
     })
