@@ -22,13 +22,13 @@ const toggle= document.getElementById("toggle"),
            root.style.setProperty('--background-color-menu' , '#151515')
            root.style.setProperty('--menu-font-color' , '#f7f7f7')
            root.style.setProperty('--background-color','#151515')
-           root.style.setProperty('--font-color','#F7f7f7')
+           root.style.setProperty('--font-main-color','#f7f7f7')
         }
         else{
             root.style.setProperty('--background-color-menu' , '#f7f7f7')
             root.style.setProperty('--menu-font-color' , '#151515')
             root.style.setProperty('--background-color','#f7f7f7')
-            root.style.setProperty('--font-color','#151515')
+            root.style.setProperty('--font-main-color','#151515')
         }
 
     })

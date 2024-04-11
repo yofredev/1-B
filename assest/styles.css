@@ -10,6 +10,7 @@
     --menu-font-color:#151515;
     --experience-icons-size: 2em;
     --background-color:#f7f7f7;
+    --font-main-color:#151515;
 }
 /* GENERAL */
 *{
@@ -192,7 +193,7 @@ main{
     justify-content: space-evenly;
     flex-wrap: wrap;
     grid-template-columns: repeat(auto-fill, 20em);
-    color: var(--font-color);
+    color: var(--font-main-color);
 
 }
 .experience{
